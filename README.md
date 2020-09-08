@@ -22,10 +22,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.btang.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/brandonerictang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BTang%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/btangsup/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:btangsup@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.btang.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-www.btang.ca-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/brandonerictang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brandon Tang-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/btangsup/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-btangsup-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:btangsup@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-btangsup@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
