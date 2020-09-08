@@ -5,12 +5,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Ryerson University for Graphic Communications Management (bachelors of technology).
 - 🎓 &nbsp; #cohort25 Front-end web immersive graduate at Juno College of Technology.
-- 🌱 &nbsp; Learning more about React, WordPress and  
+- 🌱 &nbsp; Learning more about ReactJS, WordPress and freelancing
 - ✍️ &nbsp; #readytowork
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | JQuery | Node.js | ReactJS | PHP
 - 🛢 &nbsp; MySQL |
 - 🔧 &nbsp; Git |
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
