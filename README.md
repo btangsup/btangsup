@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Graduated from Ryerson University for Graphic Communications Management (bachelors of technology).
 - 🎓 &nbsp; #cohort25 Front-end web immersive graduate at Juno College of Technology.
 - 🌱 &nbsp; Learning more about ReactJS, WordPress and freelancing
+- 🔥 &nbsp; Interests: sports sports sports, video games, cinephile, 🐶Polar
 - ✍️ &nbsp; #readytowork
 
 <h3>🛠 Tech Stack</h3>
